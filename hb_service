@@ -26,7 +26,7 @@ echo "Stopping HeartBeat"
 killall hb
 ;;
 *)
-echo "Usage: /etc/init.d/hb {start|stop}"
+echo "Usage: /etc/init.d/hb_service {start|stop}"
 exit 1
 ;;
 esac
