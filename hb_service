@@ -21,7 +21,7 @@ echo "Starting HeartBeat"
 /usr/local/bin/hb &
 ;;
 stop)
-echo "Stopping lcd_monitor"
+echo "Stopping HeartBeat"
 # kill application you want to stop
 killall hb
 ;;
