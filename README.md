@@ -3,7 +3,7 @@ An IoT project to update a central site with process status
 
 To enable:
 
- - Edit hb with appropriate system info
+ - Edit hb.py with appropriate system info
  - sudo cp hb.py /usr/local/bin/hb
  - See: http://www.stuffaboutcode.com/2012/06/raspberry-pi-run-program-at-start-up.html
  - sudo cp hb_service /etc/init.d/
